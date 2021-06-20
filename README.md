@@ -116,8 +116,8 @@ for any inquery please contact me.
 __RSS__ <br>
 __Email :__ [ ravishankersingh19@gmail.com ](ravishankersingh19@gmail.com) <br>
 __Github :__ [pyravi](https://github.com/pyravi)<br>
-__FaceBook :__ [Yea Sin](https://facebook.com/ravi) <br>
-__Linkedin :__ [Yea Sin](https://www.linkedin.com/in/ravi/)
+__FaceBook :__ [RSS](https://facebook.com/ravi) <br>
+__Linkedin :__ [RSS](https://www.linkedin.com/in/ravi/)
 <br>
 <br>
 
