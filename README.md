@@ -17,7 +17,7 @@
 * Frontend User Admin Panel [ SB Admin 2 ](https://startbootstrap.com/theme/sb-admin-2).
 
 ### How to SETup in Windows/MAC/Linux
-1. Clone this Project <code>git clone https://github.com/yeazin/Movement-Pass-Clone.git </code>
+1. Clone this Project <code>git clone https://github.com/pyravi/Covid_pass-System.git </code>
 2. Go to Project Directory <code>cd Movement-Pass-Clone </code>
 3. Create a Virtual Environment :-
     * for Windows <code>python -m venv env </code>
@@ -77,7 +77,7 @@ __User has custom made admin template . with this admin area__ an admin can do m
 ![original](readme/time.png)
 * __Can Delete Movement Pass__
 
-__That`s the features of Admin Panel__ . If you want see the live action on your desktop/laptop. Please download the [code](https://github.com/yeazin/Movement-Pass-Clone) and Read the [Instruction here](#how-to-setup-in-windowsmaclinux).__Now__ Lets have a look at the Frontend User option. <br>
+__That`s the features of Admin Panel__ . If you want see the live action on your desktop/laptop. Please download the [code](https://github.com/pyravi/Covid_pass-System.git) and Read the [Instruction here](#how-to-setup-in-windowsmaclinux).__Now__ Lets have a look at the Frontend User option. <br>
 #### The features of frontend user __has given below :-__ 
 * __User can __Register__ .__
 ![original](readme/register.png)
@@ -104,7 +104,7 @@ __That`s the features of Admin Panel__ . If you want see the live action on your
 
 ### Issues & Questions
 This project is scaleble.Anyone can contribute here.Anyone can use it as it is Under __MIT License__ .<br>
-If anyone wants to contribute to the project then first make an [Issues](https://github.com/yeazin/Movement-Pass-Clone/issues) here.<br>
+If anyone wants to contribute to the project then first make an [Issues](https://github.com/pyravi/Covid_pass-System/issues) here.<br>
 For further information anyone can knock me at __Email__ & __Facebook__ which is given in the [Owner Info](#repository-owner-info). <br>
 Thanks !!!<br>
 ### Disclaimer
@@ -113,11 +113,11 @@ for any inquery please contact me.
 
 ### Repository Owner Info 
 
-__Md. Nazrul Islam Yeasin__ <br>
-__Email :__ [ naz.yeasin@gmail.com ](mailto:naz.yeasin@gmail.com) <br>
-__Github :__ [yeazin](https://github.com/yeazin)<br>
-__FaceBook :__ [Yea Sin](https://facebook.com/yeariha.farsin) <br>
-__Linkedin :__ [Yea Sin](https://www.linkedin.com/in/yeazin/)
+__RSS__ <br>
+__Email :__ [ ravishankersingh19@gmail.com ](ravishankersingh19@gmail.com) <br>
+__Github :__ [pyravi](https://github.com/pyravi)<br>
+__FaceBook :__ [Yea Sin](https://facebook.com/ravi) <br>
+__Linkedin :__ [Yea Sin](https://www.linkedin.com/in/ravi/)
 <br>
 <br>
 
